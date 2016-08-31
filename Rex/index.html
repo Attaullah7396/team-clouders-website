@@ -737,7 +737,7 @@
 <!-- End Testimonial section -->
 
 <!-- Start from blog section -->
-<section id="from-blog">
+<!--<section id="from-blog">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -748,7 +748,7 @@
                         <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id
                             quod maxime placeat facere possimus, omnis voluptas assumenda est</p>
                     </div>
-                    <!-- From Blog content -->
+                    &lt;!&ndash; From Blog content &ndash;&gt;
                     <div class="from-blog-content">
                         <div class="row">
                             <div class="col-md-4">
@@ -814,10 +814,10 @@
             </div>
         </div>
     </div>
-</section>
+</section>-->
 <!-- End from blog section -->
 
-<section id="client">
+<!--<section id="client">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -840,7 +840,7 @@
             </div>
         </div>
     </div>
-</section>
+</section>-->
 <!-- Start Contact section -->
 <section id="contact">
     <div class="container">
@@ -864,15 +864,15 @@
             <div class="col-md-8 col-sm-6 col-xs-12">
                 <div class="contact-right wow fadeInRight">
                     <h2>Send a message</h2>
-                    <form action="" class="contact-form">
+                    <form id="myForm2" class="contact-form" onsubmit="sendEmail();return false;">
                         <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Name">
+                            <input id="contactName" type="text" class="form-control" placeholder="Name">
                         </div>
                         <div class="form-group">
-                            <input type="email" class="form-control" placeholder="Enter Email">
+                            <input id="contactEmail" type="email" class="form-control" placeholder="Enter Email">
                         </div>
                         <div class="form-group">
-                            <textarea class="form-control" placeholder="Description"></textarea>
+                            <textarea id="contactDetail" class="form-control" placeholder="Description"></textarea>
                         </div>
                         <button type="submit" data-text="SUBMIT" class="button button-default"><span>SUBMIT</span>
                         </button>
@@ -941,17 +941,12 @@
 <!-- Custom js -->
 <script type="text/javascript" src="assets/js/custom.js"></script>
 <script type="text/javascript" src="assets/js/app.js"></script>
-<!--<script src="https://www.gstatic.com/firebasejs/3.3.0/firebase.js"></script>
-<script>
-    // Initialize Firebase
-    var config = {
-        apiKey: "AIzaSyClxLNZTeGbbwL2ioEcSHZBT3L9eQFUeHE",
-        authDomain: "websitecheck-fd487.firebaseapp.com",
-        databaseURL: "https://websitecheck-fd487.firebaseio.com",
-        storageBucket: "websitecheck-fd487.appspot.com",
-    };
-    firebase.initializeApp(config);
-</script>-->
+<script type="text/javascript" src="https://cdn.emailjs.com/dist/email.min.js"></script>
+<script type="text/javascript">
+    (function(){
+        emailjs.init("user_Ogcax1OwPBOnG1SzTU8rC");
+    })();
+</script>
 
 </body>
 </html>
