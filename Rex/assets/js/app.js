@@ -14,9 +14,11 @@ function sendEmail(){
     var content = document.getElementById('contactDetail').value;
     emailjs.send("gmail","template_gCHF6oh5",{name: name,from:userEmail, text:content})
         .then(function(response) {
-            console.log("SUCCESS. status=%d, text=%s", response.status, response.text);
+            console.log("SUCCESS. status=%d, text=%s", response.status, response.text
+            document.getElementById("myForm2").reset();
         }, function(err) {
-            console.log("FAILED. error=", err);
+            alert("Unable to send your message");
+            document.getElementById("myForm2").reset();
         });
 }
 
