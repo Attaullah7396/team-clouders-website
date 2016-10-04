@@ -2,158 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13a89fb4-88ea-461b-96aa-7a07d67af328" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/css/jquery.fancybox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/css/slick.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/css/theme-color/bridge-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/css/theme-color/dark-red-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/css/theme-color/default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/css/theme-color/green-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/css/theme-color/lite-blue-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/css/theme-color/orange-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/css/theme-color/pink-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/css/theme-color/purple-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/css/theme-color/red-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/css/theme-color/yellow-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/ali.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/angular2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/ata.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/avr1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/blood1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/call-to-action-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/contact-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/counter-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/cz.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/dua.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/fancybox_loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/fancybox_loading@2x.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/fancybox_overlay.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/ghayyas.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/google.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/haider.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/header-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/instagram-feed-img.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/ionic2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/mani.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/mateen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/muzi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/port1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/port2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/port3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/search-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/teamofteam.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/todo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/try.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/try3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/images/tutor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/js/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/js/custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/js/jquery.counterup.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/js/jquery.counterup.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/js/jquery.fancybox.pack.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/js/jquery.mixitup.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/js/slick.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/js/waypoints.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/js/waypoints.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/assets/js/wow.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/preloader.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rex/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/plugins/buttons/icons/cross.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/plugins/buttons/icons/key.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/plugins/buttons/icons/tick.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/plugins/buttons/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/plugins/buttons/screen.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/plugins/fancy-type/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/plugins/fancy-type/screen.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/plugins/link-icons/icons/doc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/plugins/link-icons/icons/email.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/plugins/link-icons/icons/external.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/plugins/link-icons/icons/feed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/plugins/link-icons/icons/im.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/plugins/link-icons/icons/pdf.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/plugins/link-icons/icons/visited.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/plugins/link-icons/icons/xls.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/plugins/link-icons/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/plugins/link-icons/screen.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/plugins/rtl/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/plugins/rtl/screen.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/print.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/screen.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/src/forms.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/src/grid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/src/grid.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/src/ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/src/print.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/src/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/blueprint-css/src/typography.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/assets/images/favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shAutoloader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shBrushAS3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shBrushAppleScript.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shBrushBash.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shBrushCSharp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shBrushColdFusion.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shBrushCpp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shBrushCss.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shBrushDelphi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shBrushDiff.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shBrushErlang.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shBrushGroovy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shBrushJScript.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shBrushJava.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shBrushJavaFX.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shBrushPerl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shBrushPhp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shBrushPlain.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shBrushPowerShell.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shBrushPython.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shBrushRuby.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shBrushSass.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shBrushScala.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shBrushSql.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shBrushVb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shBrushXml.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shCore.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/scripts/shLegacy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/styles/shCore.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/styles/shCoreDefault.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/styles/shCoreDjango.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/styles/shCoreEclipse.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/styles/shCoreEmacs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/styles/shCoreFadeToGrey.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/styles/shCoreMDUltra.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/styles/shCoreMidnight.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/styles/shCoreRDark.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/styles/shThemeDefault.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/styles/shThemeDjango.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/styles/shThemeEclipse.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/styles/shThemeEmacs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/styles/shThemeFadeToGrey.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/styles/shThemeMDUltra.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/styles/shThemeMidnight.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/help/DOCUMENTATION/syntax-highlighter/styles/shThemeRDark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/fancybox_loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/fancybox_loading@2x.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/try.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/dua.png" afterPath="$PROJECT_DIR$/assets/images/dua.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/port1.png" afterPath="$PROJECT_DIR$/assets/images/port1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/port2.png" afterPath="$PROJECT_DIR$/assets/images/port2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/port3.png" afterPath="$PROJECT_DIR$/assets/images/port3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/todo.png" afterPath="$PROJECT_DIR$/assets/images/todo.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="MarkUps-Rex.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -173,7 +34,28 @@
     <favorites_list name="MarkUps-Rex" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="57" column="33" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="309" column="14" selection-start-line="309" selection-start-column="14" selection-end-line="309" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -192,6 +74,8 @@
         <option value="$PROJECT_DIR$/Rex/assets/js/app.js" />
         <option value="$PROJECT_DIR$/Rex/index.html" />
         <option value="$PROJECT_DIR$/Rex/public/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/style.css" />
       </list>
     </option>
   </component>
@@ -240,14 +124,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MarkUps-Rex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MarkUps-Rex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="D:/Coding/AngularJS/Tuitor App" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SVG-HOVER" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
@@ -331,17 +225,19 @@
       <workItem from="1473439576597" duration="3665000" />
       <workItem from="1473508643879" duration="1583000" />
       <workItem from="1475383010498" duration="7357000" />
+      <workItem from="1475400059158" duration="40000" />
+      <workItem from="1475600046621" duration="6863000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50500000" />
+    <option name="totallyTimeSpent" value="57403000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24776785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21726191" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -393,299 +289,61 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Rex/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1768">
-          <caret line="104" column="59" selection-start-line="104" selection-start-column="54" selection-end-line="104" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/assets/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/assets/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5202">
-          <caret line="306" column="5" selection-start-line="306" selection-start-column="1" selection-end-line="306" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/assets/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6426">
-          <caret line="306" column="5" selection-start-line="306" selection-start-column="1" selection-end-line="306" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/assets/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6426">
-          <caret line="306" column="5" selection-start-line="306" selection-start-column="1" selection-end-line="306" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/assets/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15498">
-          <caret line="738" column="1" selection-start-line="738" selection-start-column="1" selection-end-line="738" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/assets/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15498">
-          <caret line="738" column="1" selection-start-line="738" selection-start-column="1" selection-end-line="738" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19929">
-          <caret line="949" column="64" selection-start-line="949" selection-start-column="64" selection-end-line="949" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15498">
-          <caret line="738" column="1" selection-start-line="738" selection-start-column="1" selection-end-line="738" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/assets/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15309">
-          <caret line="729" column="14" selection-start-line="729" selection-start-column="14" selection-end-line="729" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15309">
-          <caret line="729" column="14" selection-start-line="729" selection-start-column="14" selection-end-line="729" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15246">
-          <caret line="726" column="46" selection-start-line="726" selection-start-column="46" selection-end-line="726" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/assets/js/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="751">
-          <caret line="63" column="22" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/assets/js/jquery.counterup.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/assets/js/jquery.mixitup.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="38" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/assets/js/slick.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/assets/js/wow.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/assets/js/waypoints.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Rex/index.html" />
+    <entry file="file://$PROJECT_DIR$/Rex/assets/js/app.js" />
+    <entry file="file://$PROJECT_DIR$/Rex/style.css" />
+    <entry file="file://$PROJECT_DIR$/Rex/index.html" />
+    <entry file="file://$PROJECT_DIR$/Rex/assets/js/app.js" />
+    <entry file="file://$PROJECT_DIR$/Rex/style.css" />
+    <entry file="file://$PROJECT_DIR$/Rex/index.html" />
+    <entry file="file://$PROJECT_DIR$/Rex/assets/js/app.js" />
+    <entry file="file://$PROJECT_DIR$/Rex/style.css" />
+    <entry file="file://$PROJECT_DIR$/Rex/index.html" />
+    <entry file="file://$PROJECT_DIR$/Rex/assets/js/app.js" />
+    <entry file="file://$PROJECT_DIR$/Rex/style.css" />
+    <entry file="file://$PROJECT_DIR$/Rex/index.html" />
+    <entry file="file://$PROJECT_DIR$/Rex/assets/js/app.js" />
+    <entry file="file://$PROJECT_DIR$/Rex/style.css" />
+    <entry file="file://$PROJECT_DIR$/Rex/index.html" />
+    <entry file="file://$PROJECT_DIR$/Rex/assets/js/app.js" />
+    <entry file="file://$PROJECT_DIR$/Rex/style.css" />
+    <entry file="file://$PROJECT_DIR$/Rex/index.html" />
+    <entry file="file://$PROJECT_DIR$/Rex/style.css" />
+    <entry file="file://$PROJECT_DIR$/Rex/assets/js/app.js" />
+    <entry file="file://$PROJECT_DIR$/Rex/index.html" />
+    <entry file="file://$PROJECT_DIR$/Rex/style.css" />
+    <entry file="file://$PROJECT_DIR$/Rex/index.html" />
+    <entry file="file://$PROJECT_DIR$/Rex/style.css" />
+    <entry file="file://$PROJECT_DIR$/Rex/index.html" />
+    <entry file="file://$PROJECT_DIR$/Rex/style.css" />
+    <entry file="file://$PROJECT_DIR$/Rex/assets/js/custom.js" />
+    <entry file="file://$PROJECT_DIR$/Rex/assets/js/jquery.counterup.js" />
+    <entry file="file://$PROJECT_DIR$/Rex/assets/js/jquery.mixitup.js" />
+    <entry file="file://$PROJECT_DIR$/Rex/assets/js/slick.js" />
+    <entry file="file://$PROJECT_DIR$/Rex/assets/js/wow.js" />
+    <entry file="file://$PROJECT_DIR$/Rex/assets/js/waypoints.js" />
     <entry file="file://$PROJECT_DIR$/Rex/firebase.json" />
-    <entry file="file://$PROJECT_DIR$/Rex/style.css">
+    <entry file="file://$PROJECT_DIR$/Rex/style.css" />
+    <entry file="file://$PROJECT_DIR$/Rex/index.html" />
+    <entry file="file://$PROJECT_DIR$/Rex/assets/js/app.js" />
+    <entry file="file://$PROJECT_DIR$/Rex/public/index.html" />
+    <entry file="file://$PROJECT_DIR$/assets/images/newLogo2.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="2433" column="22" selection-start-line="2433" selection-start-column="22" selection-end-line="2433" selection-end-column="29" />
+        <state relative-caret-position="87">
+          <caret line="57" column="33" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/index.html">
+    <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="214" column="35" selection-start-line="214" selection-start-column="35" selection-end-line="214" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/assets/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rex/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="762" column="39" selection-start-line="762" selection-start-column="39" selection-end-line="762" selection-end-column="39" />
+        <state relative-caret-position="301">
+          <caret line="309" column="14" selection-start-line="309" selection-start-column="14" selection-end-line="309" selection-end-column="14" />
           <folding />
         </state>
       </provider>

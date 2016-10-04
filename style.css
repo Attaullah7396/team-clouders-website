@@ -294,19 +294,20 @@ img{
 	transition: all 0.5s;
 }
 .logo {
-	height: 100px;  
+	height: 100px;
 	width: 85px;
 	margin-right: 45px;
 	margin-top: -1px;
 	padding: 0;
+	overflow-x: visible;
 }
 .logo-compressed {
 	height: 80px;  
-	width: 70px;
+	width: 100px;
 }
 .logo img {
 	height: 100%;
-	width: 100%;
+	width: 160%;
 }
 #navbar {
 	float: left;
